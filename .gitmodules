@@ -1,12 +1,12 @@
 [submodule "content-engine"]
 	path = content-engine
 	url = git@github.com:speed-and-function/snf-ai-content-engine.git
-[submodule "eboss"]
-	path = eboss
-	url = git@github.com:speed-and-function/snf-ai-eboss.git
 [submodule "enterprise"]
 	path = enterprise
 	url = git@github.com:speed-and-function/snf-ai-enterprise.git
 [submodule "internal"]
 	path = internal
 	url = git@github.com:speed-and-function/snf-ai-internal.git
+[submodule "eboss"]
+	path = eboss
+	url = git@github.com:speedandfunction/snf-ai-eboss.git
